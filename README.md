@@ -20,33 +20,41 @@ Make sure you have the following installed:
    git clone https://github.com/yourusername/your-repo-name.git
 
 2. **Navigate to your project directory**
+    ```bash
     cd your-repo-name
 
 3. **Install dependencies**
+    ```bash
     npm install
 
-Available Scripts
+### Available Scripts
 In the project directory, you can run:
 
-npm start
+   
+   npm start
+
 Runs the app in development mode.
 Open http://localhost:3000 to view it in your browser.
 The page will reload if you make edits. You may also see lint errors in the console.
 
-Features
+### Features
 
 Add Todo: Form to add new todo items.
+
 View Todos: List to display all todo items.
+
 Update Todo: Functionality to edit existing todo items.
+
 Delete Todo: Option to remove todo items.
+
 Mark as Completed: Toggle status between completed and pending.
 
 
-Data Integration
+### Data Integration
 
 Local Storage: Get and set dummy data from local storage.
 
-Styling
+### Styling
 
 Styled Components: Utilized for styling the application.
 Responsive Design: Ensures compatibility with both desktop and mobile devices.
