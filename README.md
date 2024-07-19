@@ -39,15 +39,15 @@ The page will reload if you make edits. You may also see lint errors in the cons
 
 ### Features
 
-Add Todo: Form to add new todo items.
+**Add Todo**: Form to add new todo items.
 
-View Todos: List to display all todo items.
+**View Todos**: List to display all todo items.
 
-Update Todo: Functionality to edit existing todo items.
+**Update Todo**: Functionality to edit existing todo items.
 
-Delete Todo: Option to remove todo items.
+**Delete Todo**: Option to remove todo items.
 
-Mark as Completed: Toggle status between completed and pending.
+**Mark as Completed**: Toggle status between completed and pending.
 
 
 ### Data Integration
